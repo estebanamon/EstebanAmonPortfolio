@@ -14,7 +14,7 @@ class Ajax_Contact_Form {
      *
      * @var string
      */
-    protected $address_destination = 'estebanamon@icloud.com';
+    protected $address_destination = 'hi@estebanamon.com';
 
     /**
      * Message subject
